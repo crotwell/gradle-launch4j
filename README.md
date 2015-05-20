@@ -1,4 +1,14 @@
 
+
+Notice
+======
+
+__Maintainence of the gradle-launch4j plugin has been take over by a new owner. The new github repo is:__
+
+__[https://github.com/TheBoegl/gradle-launch4j]. __
+
+__All changes will take place there.__
+
 Introduction
 ============
 
