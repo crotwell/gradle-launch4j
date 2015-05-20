@@ -3,9 +3,9 @@
 Notice
 ======
 
-__Maintainence of the gradle-launch4j plugin has been take over by a new owner. The new github repo is:__
+__Maintenance of the gradle-launch4j plugin has been take over by Sebastian Bögl. The new github repo is:__
 
-[https://github.com/TheBoegl/gradle-launch4j].
+[TheBoegl/gradle-launch4j](https://github.com/TheBoegl/gradle-launch4j).
 
 __All changes will take place there.__
 
